@@ -1,0 +1,4 @@
+name: Duelrun
+version: ${project.version}
+main: design.hephaestus.duelrun.duelrun.Duelrun
+api-version: 1.16
